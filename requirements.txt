@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+matplotlib
+pillow
+reportlab
+openpyxl
+xlrd
+sqlalchemy
+pymysql
+psycopg2-binary
