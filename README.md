@@ -2,7 +2,7 @@
 
 A web app that cleans, explores and reports on data in a few clicks. Built with Python, pandas, scikit-learn and Streamlit.
 
-**Live app:** _paste your Streamlit link here after publishing_
+**Live app:** deralytic.streamlit.app
 
 ## What it does
 - **Load data** from a CSV or Excel file, a SQLite, MySQL or PostgreSQL database, or built-in sample data
